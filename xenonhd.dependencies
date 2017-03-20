@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "TeamHorizon/android_device_sony_yukon",
+    "target_path": "device/sony/yukon",
+    "branch": "n"
+  },
+  {
+    "repository": "TeamHorizon/android_kernel_sony_msm8226",
+    "target_path": "kernel/sony/msm8226",
+    "branch": "n"
+  },
+  {
+    "repository": "TeamHorizon/proprietary_vendor_yukon",
+    "target_path": "vendor/sony",
+    "branch": "n"
+  }
+]
